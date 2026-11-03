@@ -1,6 +1,6 @@
 # Machine learning competition solutions
 
-My solutions to 17 public data science competitions and practice problems, written 2016–2019 in R and Python. Most are from [Analytics Vidhya DataHack](https://datahack.analyticsvidhya.com/); one is from the SentiRuEval-2016 shared task on Russian sentiment analysis.
+My solutions to 15 public data science competitions and practice problems, written 2016–2019 in R and Python. Most are from [Analytics Vidhya DataHack](https://datahack.analyticsvidhya.com/); one is from the SentiRuEval-2016 shared task on Russian sentiment analysis.
 
 They cover tabular regression and classification, NLP, image and audio classification, and time-series forecasting. Most solutions build the pipeline by hand, using custom functions for imputation, encoding, resampling for class imbalance, evaluation metrics and voting ensembles, and compare many classical models.
 
